@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T20:03:45.581Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ybbG-SlLK4l6LdqHuDKH" version="24.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-27T20:08:00.637Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="tpw5ewC0jliBgJqP0Jfa" version="24.6.3" type="github" pages="4">
   <diagram name="Page-1" id="PVpVWnrb7OfxVeaUVZbv">
-    <mxGraphModel dx="2454" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry y="60" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9z153Rb5Zh5aQNl601J3-18" value="course" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="456" width="100" height="138" as="geometry" />
+          <mxGeometry x="570" y="464" width="100" height="138" as="geometry" />
         </mxCell>
         <mxCell id="9z153Rb5Zh5aQNl601J3-19" value="+ id: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9z153Rb5Zh5aQNl601J3-18" vertex="1">
           <mxGeometry y="26" width="100" height="26" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c8GOJVSV7jXu2KVrGpNi-3" value="&lt;code&gt;Teacher&lt;/code&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="540" width="110" height="182" as="geometry" />
+          <mxGeometry x="700" y="540" width="110" height="182" as="geometry" />
         </mxCell>
         <mxCell id="c8GOJVSV7jXu2KVrGpNi-4" value="+ id: interger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="c8GOJVSV7jXu2KVrGpNi-3">
           <mxGeometry y="26" width="110" height="26" as="geometry" />
